@@ -1,0 +1,2 @@
+# Image_Enhancer
+ScaleUp or ScaleDown the desired image. Also applies Bit Plane Slicing procedure for efficient storage of image.
